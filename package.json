@@ -1,0 +1,24 @@
+{
+  "name": "movieList",
+  "version": "1.0.0",
+  "description": "\"# movieList\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robi1977/movieList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robi1977/movieList/issues"
+  },
+  "homepage": "https://github.com/robi1977/movieList#readme",
+  "devDependencies": {
+    "webpack": "^5.2.0",
+    "webpack-cli": "^4.1.0"
+  }
+}
